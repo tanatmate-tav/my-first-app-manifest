@@ -29,7 +29,7 @@ spec:
         app: my-first-app
     spec:
       containers:
-      - image: ghcr.io/tanatmate-tav/my-app:v1.0.0
+      - image: ghcr.io/tanatmate-tav/my-app:v1.0.2
         name: my-first-app
         ports:
         - containerPort: 80
